@@ -6,7 +6,7 @@ This course is basic introduction to Python for quantitative Finance. The goal i
 Here are the topics that this course will cover :
 
   - Course 1 : data management (import/export), variables definition & plots
-  - Course 2 : data analysis (estimation of mean, covariance and PCA)
+  - Course 2 : data analysis (estimation of mean, covariance, etc ..)
   - Course 3 : computation of optimal portfolios
   - Course 4 : efficient frontier and optimal portfolio under risk budget
   - Course 5 : linear regression
